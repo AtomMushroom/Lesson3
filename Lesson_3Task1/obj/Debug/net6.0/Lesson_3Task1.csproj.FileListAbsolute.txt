@@ -1,0 +1,15 @@
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\Lesson_3Task1.exe
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\Lesson_3Task1.deps.json
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\Lesson_3Task1.runtimeconfig.json
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\Lesson_3Task1.dll
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\ref\Lesson_3Task1.dll
+E:\vs\Lesson3\Lesson_3Task1\bin\Debug\net6.0\Lesson_3Task1.pdb
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.csproj.AssemblyReference.cache
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.AssemblyInfoInputs.cache
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.AssemblyInfo.cs
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.csproj.CoreCompileInputs.cache
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.dll
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\ref\Lesson_3Task1.dll
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.pdb
+E:\vs\Lesson3\Lesson_3Task1\obj\Debug\net6.0\Lesson_3Task1.genruntimeconfig.cache
